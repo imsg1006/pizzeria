@@ -1,0 +1,31 @@
+{
+  "name": "namaste-react-code",
+  "version": "1.0.0",
+  "description": "this is a tutorial page",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "title"
+  },
+  "author": "shlok gupta",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.22.20",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "parcel": "^2.9.3",
+    "postcss": "^8.4.31",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.3.5"
+  },
+  "dependencies": {
+    "formik": "^2.4.6",
+    "git-filter-repo": "^0.0.30",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.17.0",
+    "yup": "^1.4.0"
+  },
+  "browserslist": [
+    "last 2  versions"
+  ]
+}
